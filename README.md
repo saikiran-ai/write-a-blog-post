@@ -18,13 +18,13 @@ To download please go to Stack Over Flow Annual Developer Survey and choose the 
 
 Libraries used:
 
-pandas
+`pandas`
 
-numpy
+`numpy`
 
-matplotlib
+`matplotlib`
 
-seaborn
+`seaborn`
 
 # File Descriptions
 stackoverflow survey 2020.ipynb: showcase work related to the above questions. The notebooks is exploratory in searching through the data pertaining to the questions showcased by the notebook title. Markdown cells were used to assist in walking through the thought process for individual steps.
