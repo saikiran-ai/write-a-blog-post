@@ -31,4 +31,4 @@ stackoverflow survey 2020.ipynb: showcase work related to the above questions. T
 
 # Results
 
-The main findings of the code can be found at the post available (here)[https://medium.com/@skrnsangam/stack-overflow-survey-analysis-2020-43fa25b02462].
+The main findings of the code can be found at the post available [here](https://medium.com/@skrnsangam/stack-overflow-survey-analysis-2020-43fa25b02462).
